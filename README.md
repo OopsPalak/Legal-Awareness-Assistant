@@ -1,2 +1,2 @@
 # Legal-Awareness-Assistant
-palak
+
